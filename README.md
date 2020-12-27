@@ -1,1 +1,1 @@
-COVID-19 Classification using EfficientNetB5
+COVID-19 Classification
